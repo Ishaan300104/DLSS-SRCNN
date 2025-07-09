@@ -1,0 +1,11 @@
+torch
+torchvision
+tqdm
+opencv-python
+wandb
+numpy
+matplotlib
+torchinfo
+streamlit
+kornia
+pillow
